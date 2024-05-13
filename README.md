@@ -2,6 +2,7 @@
 
 ## Resumo
 - Ao me deparar com um cenário onde deveria limpar uma grande quantidade de bases no mongobd, decidi estudar uma forma de fazer um script para realizar a tarefa. O uso do node.js me coube como uma luva, rápido, simples e fácil.
+- Lembrando, que essa solução foi apenas para realizar uma tarefa corriqueira, mas ainda pode ser melhorada para, por exemplo um crud no mongodb usando node.js, e muitas outras necessidades.
 
 ## Recursos utilizados:
 - Node.js (v20.12.2)
